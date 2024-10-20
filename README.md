@@ -4,5 +4,6 @@ Features
 Responsive Design: The layout adapts to different screen sizes through the use of viewport meta tags.
 Structured Content: Information is organized into tables and sections for clarity.
 Styling: Basic CSS is included for styling elements such as text, images, and tables.
+    
 **Dependencies**
 This template does not require any external libraries or frameworks but relies on standard HTML and CSS.
